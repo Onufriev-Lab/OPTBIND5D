@@ -37,7 +37,6 @@ Before running the script, ensure that you have the necessary `.prmtop` and `.cr
 
 3. **Follow Prompts**: Input the required file paths when prompted (as a string):
    
-   - Enter the path to the input prmtop file, make sure to give the path to the file as String and the file format should be .prmtop NOT .top : "./example_input.prmtop".
-   - Path to the input crd file (e.g., “./all.crd”).
-
+   - Enter the path to the input prmtop file, make sure to give the path to the file as String and the file format should be .prmtop NOT .top : "./example_input.prmtop"
+   - PEnter the path to the input crd file: "./example_input.crd" 
 The script will generate a new `.prmtop` file with OPTBIND5D radii.
