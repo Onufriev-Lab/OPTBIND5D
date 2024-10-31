@@ -2,7 +2,7 @@
 Optimal Radii for MMGBSA
 
 
-`OPTBIND5D.py` is a Python script designed to automate the process of modifying atomic radii in AMBER topology files (.prmtop) to OPTBIND5D radii. Regardless of the radii set of the input topology file, it updates that radii based on predefined mappings from Bondi radii to OPTBIND5D. This script uses ParmEd, a tool for editing and analyzing parameter/topology files in computational chemistry. **This current version only for structures with C, H, N, O, and S atoms and shouldn't be applied to any other atoms such as metal atoms, ions, Cl, and F. An update in AMBER suit will be available soon to automate the process.**
+`OPTBIND5D.py` is a Python script designed to automate the process of modifying atomic radii in AMBER topology files (.prmtop) to OPTBIND5D radii. Regardless of the radii set of the input topology file, it updates that radii based on predefined mappings from Bondi radii to OPTBIND5D. This script uses ParmEd, a tool for editing and analyzing parameter/topology files in computational chemistry. **This current version works only for structures with C, H, N, O, and S atoms and shouldn't be applied to any other atoms such as metal atoms, ions, Cl, and F. An update in AMBER suit will be available soon to automate the process.**
 
 ## Requirements
 
