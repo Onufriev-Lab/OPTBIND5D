@@ -38,7 +38,7 @@ Clone the repository or download the `OPTBIND5D.py` script directly into your wo
 
 ```bash
 git clone https://github.com/Onufriev-Lab/OPTBIND5D
-cd OPTBIND5D
+cd OPTBIND5D/Python_script
 ```
 
 ## Usage
