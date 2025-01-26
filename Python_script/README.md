@@ -57,5 +57,5 @@ Before running the script, ensure that you have the necessary `.top` file prepar
 Run the script and provide the path to your `.top` file when prompted:
 
 ```bash
-Please enter the path to your .top file: ./example_input.top
-New .top file written as: .example_inpu_OPTBIND5D.top
+Please enter the path to your .top file: ./example.top
+New .top file written as: .example_OPTBIND5D.top
