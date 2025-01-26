@@ -3,6 +3,7 @@ Optimal Radii for MMGBSA
 
 
 `OPTBIND5D.py` is a python script that automates the process of modifying atomic radii in AMBER topology files (`.top`) to the OPTBIND5D radii set. It is designed to prepare topology files for MMGBSA calculations by updating specific atomic radii.
+NOTE: This procedure is a post-processing step (inputs for MMGBSA) and has no effect on explicit solvent MD simulations. An update in AMBER suit will be available soon to automate the process.** 
 
 ---
 
